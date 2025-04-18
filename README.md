@@ -1,5 +1,5 @@
 ## This website has been made in a simple HTML, CSS & JS file. 
- # It is a packers and movers company located in Abu Dhabi, Saudi Arab.
+ # It is a packers and movers company located in India Siwan (Bihar).
 
 # The tools which has been used:
   a.For responsiveness used the Bootstrap,     
